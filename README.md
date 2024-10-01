@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/cyber-threat-detector.git
+git clone https://github.com/Talhanaeem396/Cyber-Threat-Detector-.git
 Navigate to the project directory:
 
 bash
